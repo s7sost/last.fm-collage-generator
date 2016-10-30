@@ -45,7 +45,7 @@ v.1.0b 12/03/2011
 - Basic cache: lasts 1h in server
 
 ***************************/
-require("phplastfm/lastfmapi/lastfmapi.php");
+require("lastfmapi/lastfmapi.php");
 set_time_limit(240);
 //ini_set('max_execution_time', 240);
 
